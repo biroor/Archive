@@ -1,6 +1,5 @@
-Harika, Biroor Archive ile ekosistemi tam bir verimlilik platformuna dönüştürmüşsünüz. Eğitim odaklı bir projede dosya depolama ve paylaşımı (Google Drive mantığı), hem öğretmenlerin materyal saklaması hem de öğrencilerin ödev teslim etmesi için kilit bir parça.
 
-GitHub veya tanıtım sayfanız için Biroor Archive'ın İngilizce açıklaması şu şekilde olabilir:
+
 
 📂 Biroor Archive
 Biroor Archive is a secure, cloud-based file management and storage solution tailored for the educational ecosystem. Designed with simplicity and speed in mind, it serves as the central repository for students and educators to store, manage, and share digital assets seamlessly.
